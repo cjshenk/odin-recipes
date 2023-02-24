@@ -1,0 +1,26 @@
+body {
+    color: black;
+    background-color: bisque;
+}
+
+h1 {
+    color: rgb(28, 6, 28);
+    font-size: 40px;
+}
+
+ul {
+    color: brown;
+}
+
+.ingredients {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.instructions {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: solid;
+}
+
+img {
+    border: auto;
+}
